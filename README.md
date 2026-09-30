@@ -1,6 +1,6 @@
 # Nanjesh Ramesh
 
-Senior Software Engineer | Backend & Distributed Systems
+Senior Software Engineer | Backend, Distributed Systems & Data Engineering
 
 I build data platforms and backend systems at Amazon Web Services. Before that, American Express. 6+ years in total.
 
